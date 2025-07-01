@@ -1,0 +1,3 @@
+[submodule "linux-reconfig"]
+	path = linux-reconfig
+	url = git@github.com:Flasew/linux-reconfig.git
